@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Stevie Zollo
+title: Contact Me
 ---
 
 <div id="contact">

@@ -1,5 +1,5 @@
 name: Stevie Zollo
-description: "Stevie Zollo's Blog - posts about my work in IT. Virtualization, Infrastructure, Cloud, DevOps and Bitcoin"
+description: "Stevie Zollo's IT Blog. Cloud Computing, DevOps and Bitcoin"
 
 url: http://steviezollo.it
 paginate_path: "blog/page:num/"

@@ -13,7 +13,7 @@ title: About Stevie Zollo
 
     <p>I am building this blog as an incentive to help me write more, as well as to keep track of all the stuff I work on. </p>
 
-    <p>I will mostly be posting about my IT interests - virtualization, infrastructure, DevOps, and Bitcoin, but other random posts might come up from time to time :) </p>
+    <p>I will mostly be posting about my IT interests - Cloud Computing, DevOps, and Bitcoin, but other random posts might come up from time to time... </p>
 
 
 </div>
